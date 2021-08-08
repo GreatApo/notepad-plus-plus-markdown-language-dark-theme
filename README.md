@@ -4,5 +4,5 @@
 ![Preview Screenshot](/Preview.png)
 
 ## Installation
-Copy `userDefinedLang-markdown.default.modern.xml` in `%appdata%\Notepad++\userDefineLangs\`
+Copy `markdown.dark.modern.xml` in `%appdata%\Notepad++\userDefineLangs\`
 Restart Notepad++ and select the them from Language > Markdown (Dark)
