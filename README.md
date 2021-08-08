@@ -5,4 +5,4 @@
 
 ## Installation
 - Copy `markdown.dark.modern.xml` in `%appdata%\Notepad++\userDefineLangs\`
-- Restart Notepad++ and select the them from `Language > Markdown (Dark)`
+- Restart Notepad++ and select the theme from `Language > Markdown (Dark)`
